@@ -1,141 +1,211 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,50:111C44,100:7C3AED&text=MELISSA%20OLIVEIRA&fontColor=00F5FF&fontSize=42&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=13&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0610,45:4A123D,100:FF69B4&text=MELISSA%20OLIVEIRA%20MESSIAS&fontColor=FFD6EC&fontSize=34&fontAlignY=38&desc=SYSTEM%20ONLINE%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=12&animation=fadeIn" alt="Banner Melissa Oliveira Messias"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Initializing+developer+profile...;ADS+Student+%7C+Java+Learner;Building+skills+one+project+at+a+time;Future+Software+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Initializing+developer+profile...;ADS+Student+%7C+Java+Learner;Turning+ideas+into+projects;Future+Software+Developer" alt="Animação de texto"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00F5FF?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/BASED%20IN-BRAZIL-00F5FF?style=for-the-badge&labelColor=050816"/>
-
-</div>
-
----
-
-## `> SYSTEM_PROFILE`
-
-```text
-[ SYSTEM INITIALIZED ]
-
-Name       : Melissa Oliveira
-Role       : ADS Student | Aspiring Developer
-University : Universidade São Judas Tadeu
-Scholarship: ProUni — Full Scholarship
-Main Focus : Java & Programming Logic
-Objective  : Software Development Internship
-
-[ STATUS ] Building. Learning. Improving.
-```
-
-## 👩🏻‍💻 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade São Judas Tadeu, bolsista integral pelo ProUni.
-
-Estou construindo minha trajetória na tecnologia, estudando lógica de programação e Java, com foco em desenvolver soluções práticas e evoluir por meio de projetos.
-
-Acredito que cada projeto é uma oportunidade de transformar conhecimento em prática. Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento de software e continuar aprendendo com desafios reais.
-
-- 🎓 ADS — Universidade São Judas Tadeu
-- ☕ Estudando Java e lógica de programação
-- 🧩 Desenvolvendo projetos práticos
-- 🚀 Objetivo: estágio em desenvolvimento de software
-- 📚 Sempre aprendendo algo novo
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,netbeans&theme=dark" alt="Tecnologias e ferramentas"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF69B4?style=for-the-badge&labelColor=160817" alt="System online"/>
+<img src="https://img.shields.io/badge/FOCUS-JAVA-FFB6D9?style=for-the-badge&labelColor=160817" alt="Foco em Java"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-C02683?style=for-the-badge&labelColor=160817" alt="Em aprendizado"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-Currently%20Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programming%20Logic-Study-00F5FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub-Portfolio-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/melissaoliveira23456-a11y">
+  <img src="https://img.shields.io/badge/GitHub-Melissa%20Oliveira%20Messias-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
-> Meu foco atual é consolidar os fundamentos de Java antes de avançar para novas tecnologias.
+---
 
-## 🛠️ Ferramentas utilizadas
+## `01 // SOBRE MIM`
 
-| Ferramenta | Utilização |
-|---|---|
-| Java | Aprendizado de programação |
-| Apache NetBeans | Desenvolvimento e execução de projetos Java |
-| GitHub | Versionamento e portfólio |
-| Visual Studio Code | Estudos e edição de código |
+```text
+╔══════════════════════════════════════╗
+║          DEVELOPER PROFILE           ║
+╠══════════════════════════════════════╣
+║ NAME       : Melissa Oliveira Messias║
+║ FIELD      : Systems Analysis & Dev. ║
+║ UNIVERSITY : Universidade São Judas ║
+║ SCHOLARSHIP: ProUni — Integral       ║
+║ MAIN FOCUS : Java & Programming Logic║
+║ OBJECTIVE  : Software Internship     ║
+╚══════════════════════════════════════╝
+```
+
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu**, bolsista integral pelo ProUni.
+
+Estou construindo minha trajetória na tecnologia e desenvolvendo meus conhecimentos em lógica de programação e Java. Gosto de aprender colocando a teoria em prática, criando projetos e buscando soluções para problemas reais.
+
+Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento de software, contribuir com uma equipe de tecnologia e evoluir continuamente como desenvolvedora.
+
+- 🎓 Estudante de ADS
+- ☕ Aprendendo Java e lógica de programação
+- 🧩 Praticando por meio de projetos
+- 💻 Construindo meu portfólio no GitHub
+- 🚀 Em busca de uma oportunidade de estágio em desenvolvimento
 
 ---
 
-## 🚀 Projetos em destaque
+## `02 // TECH STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" alt="Ícones das tecnologias"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-EM%20APRENDIZADO-FF69B4?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Logic-Programming-FFB6D9?style=flat-square" alt="Lógica de programação"/>
+<img src="https://img.shields.io/badge/GitHub-Portfolio-C02683?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+
+</div>
+
+### Ferramentas utilizadas
+
+| Ferramenta | Utilização |
+|:--|:--|
+| Java | Aprendizado de programação |
+| Apache NetBeans | Desenvolvimento e execução de projetos Java |
+| GitHub | Hospedagem de projetos e portfólio |
+| Visual Studio Code | Estudos e edição de código |
+
+<sub>Minha prioridade atual é fortalecer os fundamentos de Java antes de avançar para novas tecnologias.</sub>
+
+---
+
+## `03 // PROJECTS`
 
 <div align="center">
 
 <a href="https://github.com/melissaoliveira23456-a11y/mercadinho.java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melissaoliveira23456-a11y&repo=mercadinho.java&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7C3AED"/>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=melissaoliveira23456-a11y&repo=mercadinho.java&theme=radical&hide_border=true&bg_color=160817&title_color=FF69B4&icon_color=FFB6D9&text_color=F8EAF2" alt="Projeto Mercadinho em Java"/>
 </a>
 
 </div>
 
 ### 🛒 Sistema de Mercadinho em Java
 
-Projeto de console para praticar lógica de programação e conceitos fundamentais de Java.
+Projeto de console criado para praticar conceitos fundamentais de Java por meio de um sistema de gerenciamento de produtos e estoque.
 
-**Funcionalidades:**
-- Cadastro e listagem de produtos
-- Busca por código
+**Funcionalidades**
+- Cadastro de produtos
+- Listagem de produtos
+- Busca de produtos por código
 - Registro de vendas
 - Atualização de estoque
 - Relatório de estoque
 
-**Conceitos praticados:** classes, objetos, métodos, listas, estruturas condicionais, repetição e entrada de dados com `Scanner`.
+**Conceitos praticados**
+- Classes e objetos
+- Métodos
+- `ArrayList`
+- Estruturas condicionais
+- Laços de repetição
+- Entrada de dados com `Scanner`
 
-🔗 [Acessar repositório](https://github.com/melissaoliveira23456-a11y/mercadinho.java)
+**Tecnologias:** Java • Apache NetBeans • GitHub
+
+<a href="https://github.com/melissaoliveira23456-a11y/mercadinho.java">
+  <img src="https://img.shields.io/badge/VER%20PROJETO-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
+</a>
 
 ---
 
-## 🎯 Objetivos atuais
+## `04 // CURRENT OBJECTIVES`
 
 ```bash
-melissa@dev:~$ cat goals.txt
+melissa@cyberdev:~$ ./show-goals.sh
 
-[IN PROGRESS] Consolidar lógica de programação
-[IN PROGRESS] Praticar Java diariamente
-[IN PROGRESS] Desenvolver novos projetos
-[NEXT]         Aprimorar Git e GitHub
-[NEXT]         Estudar HTML e CSS
-[TARGET]       Conquistar estágio em desenvolvimento
+[ RUNNING ] Estudar lógica de programação
+[ RUNNING ] Praticar Java com exercícios
+[ RUNNING ] Desenvolver projetos pessoais
+[ RUNNING ] Aprender Git e GitHub
 
-melissa@dev:~$ _
+[ NEXT ]    Aprofundar conhecimentos em Java
+[ NEXT ]    Estudar HTML e CSS
+[ TARGET ]  Conquistar estágio em desenvolvimento
+
+melissa@cyberdev:~$ _
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## `05 // GITHUB STATISTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=melissaoliveira23456-a11y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=melissaoliveira23456-a11y&show_icons=true&theme=radical&hide_border=true&bg_color=160817&title_color=FF69B4&icon_color=FFB6D9&text_color=F8EAF2&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaoliveira23456-a11y&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaoliveira23456-a11y&layout=compact&theme=radical&hide_border=true&bg_color=160817&title_color=FF69B4&text_color=F8EAF2" alt="Linguagens mais utilizadas"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=melissaoliveira23456-a11y&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=melissaoliveira23456-a11y&theme=radical&hide_border=true&background=160817&ring=FF69B4&fire=FFB6D9&currStreakLabel=FF69B4&sideLabels=F8EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições"/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=melissaoliveira23456-a11y&bg_color=050816&color=00F5FF&line=7C3AED&point=00F5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Gráfico de atividade"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=melissaoliveira23456-a11y&bg_color=160817&color=FFB6D9&line=FF69B4&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" alt="Gráfico de atividade"/>
 
 </div>
 
 ---
+
+## `06 // ACHIEVEMENTS`
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=melissaoliveira23456-a11y&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Conquistas do GitHub"/>
+
+</div>
+
+---
+
+## `07 // CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/melissaoliveira23456-a11y/melissaoliveira23456-a11y/output/snake.svg" width="100%" alt="Animação das contribuições"/>
+
+</div>
+
+<sub>Para ativar a animação, configure uma GitHub Action para gerar e publicar o arquivo `output/snake.svg` no repositório de perfil. A imagem não aparece até esse arquivo existir.</sub>
+
+---
+
+## `08 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/melissaoliveira23456-a11y">
+  <img src="https://img.shields.io/badge/GitHub-Profile-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Quando tiver seu perfil do LinkedIn pronto, adicione o link abaixo:
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=160817" alt="LinkedIn"/>
+</a>
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:4A123D,100:0B0610&height=120&section=footer" alt="Rodapé rosa"/>
+
+### `END OF TRANSMISSION`
+
+**Every expert was once a beginner.**
+
+<sub>Melissa Oliveira Messias • ADS Student • Brazil</sub>
+
+</div>
+
 
 ## 🏆 Conquistas
 
